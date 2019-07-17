@@ -1,0 +1,8 @@
+[package]
+name = "fromzeros"
+version = "0.1.0"
+authors = ["Jack Wrenn <me@jswrenn.com>"]
+edition = "2018"
+
+[dependencies]
+fromzeros_derive = { path = "../fromzeros_derive" }
